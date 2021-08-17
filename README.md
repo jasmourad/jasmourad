@@ -10,4 +10,4 @@ I believe the biggest challenges in tech aren't technical, they are human. I hav
 
 💞️ I’m looking to collaborate on open source projects.
 
-📫 You can inbox me here on GitHub or hit me with an email at jonasasihlen@gmail.com. I am also active on Twitter as @jasmourad.
+📫 You can inbox me here on GitHub or hit me with an email at jonasasihlen@gmail.com. I am also active [on Twitter](https://twitter.com/jasmourad).
